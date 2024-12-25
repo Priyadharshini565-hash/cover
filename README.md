@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
+```
 <!DOCTYPE html>
 <html>
 
@@ -160,7 +160,7 @@ Publish the website in the LocalHost.
         </div>
         </body>
  </html>
- '''
+ ```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-08 133240.png>)
